@@ -7,7 +7,11 @@ This application is based on datasets of movies and TV shows, which allow movie 
 
 # Members
 Claire Sheng
+
 Ganlin Feng
+
 Junyi Liu
+
 Ruiwen Hu
+
 Yuming Long
